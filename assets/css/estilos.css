@@ -5,10 +5,23 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/pexels-madebymath-331684.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+
+}
+
+
+
+#Hero-Section h1 {
+  color: #6a6a60;
+
+}
+
+#Hero-Section p {
+  color: #6a6a60;
+
 }
 
 /* Mis trabajos */
@@ -32,8 +45,9 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
+
 
 }
